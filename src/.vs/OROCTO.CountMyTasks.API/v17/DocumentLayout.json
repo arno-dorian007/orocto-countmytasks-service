@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Working\\Backend\\orocto-countmytasks-service\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5C6571-1CC4-4E6A-AA16-F74A5D3FE082}|OROCTO.CountMyTasks.API\\OROCTO.CountMyTasks.API.csproj|c:\\working\\backend\\orocto-countmytasks-service\\src\\orocto.countmytasks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5C6571-1CC4-4E6A-AA16-F74A5D3FE082}|OROCTO.CountMyTasks.API\\OROCTO.CountMyTasks.API.csproj|solutionrelative:orocto.countmytasks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8B7680-AE0C-4F25-86D0-689B5EA90BA1}|OROCTO.CountMyTasks.DAL\\OROCTO.CountMyTasks.DAL.csproj|c:\\working\\backend\\orocto-countmytasks-service\\src\\orocto.countmytasks.dal\\dbcontext\\countmytasksservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8B7680-AE0C-4F25-86D0-689B5EA90BA1}|OROCTO.CountMyTasks.DAL\\OROCTO.CountMyTasks.DAL.csproj|solutionrelative:orocto.countmytasks.dal\\dbcontext\\countmytasksservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5C6571-1CC4-4E6A-AA16-F74A5D3FE082}|OROCTO.CountMyTasks.API\\OROCTO.CountMyTasks.API.csproj|c:\\working\\backend\\orocto-countmytasks-service\\src\\orocto.countmytasks.api\\orocto.countmytasks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B5C6571-1CC4-4E6A-AA16-F74A5D3FE082}|OROCTO.CountMyTasks.API\\OROCTO.CountMyTasks.API.csproj|solutionrelative:orocto.countmytasks.api\\orocto.countmytasks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OROCTO.CountMyTasks.API",
+              "DocumentMoniker": "C:\\Working\\Backend\\orocto-countmytasks-service\\src\\OROCTO.CountMyTasks.API\\OROCTO.CountMyTasks.API.csproj",
+              "RelativeDocumentMoniker": "OROCTO.CountMyTasks.API\\OROCTO.CountMyTasks.API.csproj",
+              "ToolTip": "C:\\Working\\Backend\\orocto-countmytasks-service\\src\\OROCTO.CountMyTasks.API\\OROCTO.CountMyTasks.API.csproj",
+              "RelativeToolTip": "OROCTO.CountMyTasks.API\\OROCTO.CountMyTasks.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T03:05:39.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountMyTasksServiceContext.cs",
+              "DocumentMoniker": "C:\\Working\\Backend\\orocto-countmytasks-service\\src\\OROCTO.CountMyTasks.DAL\\DBContext\\CountMyTasksServiceContext.cs",
+              "RelativeDocumentMoniker": "OROCTO.CountMyTasks.DAL\\DBContext\\CountMyTasksServiceContext.cs",
+              "ToolTip": "C:\\Working\\Backend\\orocto-countmytasks-service\\src\\OROCTO.CountMyTasks.DAL\\DBContext\\CountMyTasksServiceContext.cs",
+              "RelativeToolTip": "OROCTO.CountMyTasks.DAL\\DBContext\\CountMyTasksServiceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:42:02.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Working\\Backend\\orocto-countmytasks-service\\src\\OROCTO.CountMyTasks.API\\Program.cs",
+              "RelativeDocumentMoniker": "OROCTO.CountMyTasks.API\\Program.cs",
+              "ToolTip": "C:\\Working\\Backend\\orocto-countmytasks-service\\src\\OROCTO.CountMyTasks.API\\Program.cs",
+              "RelativeToolTip": "OROCTO.CountMyTasks.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:36:26.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

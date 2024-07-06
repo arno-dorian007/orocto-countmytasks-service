@@ -1,0 +1,11 @@
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\bin\Debug\net8.0\OROCTO.CountMyTasks.Domain.deps.json
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\bin\Debug\net8.0\OROCTO.CountMyTasks.Domain.dll
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\bin\Debug\net8.0\OROCTO.CountMyTasks.Domain.pdb
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\obj\Debug\net8.0\OROCTO.CountMyTasks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\obj\Debug\net8.0\OROCTO.CountMyTasks.Domain.AssemblyInfoInputs.cache
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\obj\Debug\net8.0\OROCTO.CountMyTasks.Domain.AssemblyInfo.cs
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\obj\Debug\net8.0\OROCTO.CountMyTasks.Domain.csproj.CoreCompileInputs.cache
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\obj\Debug\net8.0\OROCTO.CountMyTasks.Domain.dll
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\obj\Debug\net8.0\refint\OROCTO.CountMyTasks.Domain.dll
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\obj\Debug\net8.0\OROCTO.CountMyTasks.Domain.pdb
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Domain\obj\Debug\net8.0\ref\OROCTO.CountMyTasks.Domain.dll

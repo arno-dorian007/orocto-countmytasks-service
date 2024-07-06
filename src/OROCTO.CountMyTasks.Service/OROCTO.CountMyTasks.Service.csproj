@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OROCTO.CountMyTasks.DAL\OROCTO.CountMyTasks.DAL.csproj" />
+    <ProjectReference Include="..\OROCTO.CountMyTasks.Domain\OROCTO.CountMyTasks.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="RegisterWireup\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>

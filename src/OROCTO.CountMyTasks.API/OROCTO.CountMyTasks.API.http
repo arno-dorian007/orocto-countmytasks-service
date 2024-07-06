@@ -1,0 +1,6 @@
+@OROCTO.CountMyTasks.API_HostAddress = http://localhost:5231
+
+GET {{OROCTO.CountMyTasks.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

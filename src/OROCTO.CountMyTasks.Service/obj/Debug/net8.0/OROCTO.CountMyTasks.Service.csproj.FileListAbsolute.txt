@@ -1,0 +1,17 @@
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\bin\Debug\net8.0\OROCTO.CountMyTasks.Service.deps.json
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\bin\Debug\net8.0\OROCTO.CountMyTasks.Service.dll
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\bin\Debug\net8.0\OROCTO.CountMyTasks.Service.pdb
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\bin\Debug\net8.0\OROCTO.CountMyTasks.DAL.dll
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\bin\Debug\net8.0\OROCTO.CountMyTasks.Domain.dll
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\bin\Debug\net8.0\OROCTO.CountMyTasks.DAL.pdb
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\bin\Debug\net8.0\OROCTO.CountMyTasks.Domain.pdb
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\OROCTO.CountMyTasks.Service.csproj.AssemblyReference.cache
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\OROCTO.CountMyTasks.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\OROCTO.CountMyTasks.Service.AssemblyInfoInputs.cache
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\OROCTO.CountMyTasks.Service.AssemblyInfo.cs
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\OROCTO.CountMyTasks.Service.csproj.CoreCompileInputs.cache
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\OROCTO.C.39BDD395.Up2Date
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\OROCTO.CountMyTasks.Service.dll
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\refint\OROCTO.CountMyTasks.Service.dll
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\OROCTO.CountMyTasks.Service.pdb
+C:\Working\Backend\orocto-countmytasks-service\src\OROCTO.CountMyTasks.Service\obj\Debug\net8.0\ref\OROCTO.CountMyTasks.Service.dll
